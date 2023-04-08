@@ -8,9 +8,6 @@
 
 This repo contains all of my solutions for [frontend mentor](https://www.frontendmentor.io/) challenges
 
-## [Live demo](https://ahmed-soultan.github.io/Frontend-mentor-challenges/article-preview-component/)
-
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
